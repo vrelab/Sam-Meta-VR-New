@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/env/Finalout Texture/texture.meta
+guid: 33749364a6604ab4fb2fb3f74b4716b4
+========
+guid: 19d7889c228d7ae4ebc7b74485433bb8
+>>>>>>>> Stashed changes:Assets/env/Finalout Texture.meta
+=======
+<<<<<<<< Updated upstream:Assets/env/Finalout Texture/texture/cluuhouse.meta
+guid: 44f70604ee234e440a457516bc393efa
+========
+guid: 77df874adb2fd3b46890765e6b88b4d3
+>>>>>>>> Stashed changes:Assets/env/Finalout Texture/texture.meta
+>>>>>>> Stashed changes
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

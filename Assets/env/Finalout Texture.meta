@@ -1,0 +1,18 @@
+<<<<<<< Updated upstream
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d90568905febd4f144a5147545d4c17b7d5b3da74d4f6480a385a6a73426de3
+size 180
+=======
+fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/env/Finalout Texture/texture.meta
+guid: e7dc07893afd28b49b4034d31327bb21
+========
+guid: 19d7889c228d7ae4ebc7b74485433bb8
+>>>>>>>> Stashed changes:Assets/env/Finalout Texture.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> Stashed changes

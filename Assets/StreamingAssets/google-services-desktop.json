@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "666522487652",
+    "firebase_url": "https://metaverse-7aa8c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "metaverse-7aa8c",
+    "storage_bucket": "metaverse-7aa8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666522487652:android:76ed825271175e3914c871",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Multiplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_H-z9GfSVaLIMxjXhyBIy5uq3TvvCcIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

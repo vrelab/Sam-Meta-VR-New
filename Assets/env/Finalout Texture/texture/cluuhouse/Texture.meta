@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/env/Finalout Texture/texture/cluuhouse/Texture.meta
+guid: 44f4de0e63cb83040a600d57af0539c2
+========
+guid: 1b5ad7967fecba441ab532017e4e2994
+>>>>>>>> Stashed changes:Assets/env/Finalout Texture/texture/cluuhouse.meta
+=======
+<<<<<<<< Updated upstream:Assets/env/Finalout Texture/texture/food court.meta
+guid: 86ae98df80a99ae46833d734617113be
+========
+guid: 609c5329f2210684bbd9ab2d49c7c594
+>>>>>>>> Stashed changes:Assets/env/Finalout Texture/texture/cluuhouse/Texture.meta
+>>>>>>> Stashed changes
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
